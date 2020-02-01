@@ -10,3 +10,9 @@ Aplikasi ini akan secara otomatis mengingatkan Anda jika terjadi bencana alam da
 menyelamatkan diri.
 5. Life Hacks
 Life Hacks akan membuat tugas sehari-hari lebih mudah dengan memberikan tips dan trik untuk tugas-tugas yang berpotensi rumit.
+6. Police Scanner
+Dalam aplikasi ini, pengguna akan dapat melihat penjahat yang diinginkan di daerah mereka dan kapan pun mereka mendekati satu.
+7. Interior Designer
+Aplikasi ini akan mengambil gambar kamar pengguna dan memungkinkan untuk memvisualisasikannya dengan berbagai pilihan desain interior yang tersedia, seperti, karpet, gorden, cat dinding, dll.
+8. Scan and Convert Pdf
+Scan dan penyimpanan ke aplikasi pdf dapat membantu Anda menyimpan catatan penting seperti tanda terima, dokumen, kartu laporan, catatan, papan tulis, dll.
