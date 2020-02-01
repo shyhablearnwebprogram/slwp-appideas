@@ -1,8 +1,8 @@
 App Ideas For The Startups/Ide Aplikasi Untuk Statrup
 1. Local Food Delivery
 Aplikasi ini akan digunakan untuk menemukan layanan pengiriman makanan murah dan terbaik.
-2. Health Inspector
-Pemeriksa kesehatan dapat menjadi salah satu cara terbaik yang akan memberi tahu pengguna ketika ada kebutuhan untuk pemeriksaan kesehatan.
+2.Health check-up and food planner
+Aplikasi ini memeriksa kesehatan Anda hari demi hari dan menyarankan Anda makanan yang layak yang harus Anda konsumsi agar tetap sehat.
 3. Chatbots
 Chatbots adalah perangkat lunak yang melakukan percakapan melalui metode pendengaran atau tekstual.
 4. Disaster Alert
